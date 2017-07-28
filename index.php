@@ -15,7 +15,9 @@ and open the template in the editor.
         echo "my test proj";
         echo "my second line";
         echo "my 3rd line";
-        echo "Suraj line"
+        echo "Suraj line";
+        echo "Ramesh's line";
+        
         ?>
     </body>
 </html>
