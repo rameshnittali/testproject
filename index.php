@@ -14,6 +14,7 @@ and open the template in the editor.
         // put your code here
         echo "my test proj";
         echo "my second line";
+        echo "my 3rd line";
         echo "Suraj line"
         ?>
     </body>
