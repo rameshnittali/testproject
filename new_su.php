@@ -6,3 +6,5 @@
  * and open the template in the editor.
  */
 echo "Sdf";
+
+echo phpinfo();
