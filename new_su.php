@@ -8,3 +8,11 @@
 echo "Sdf";
 
 echo phpinfo();
+
+?>
+
+This is secingfn change i have made in 
+
+
+Thanks
+Suutakj
